@@ -96,7 +96,7 @@ DataApp.prototype.getHTML = function() {
     return `
         <div class="container">
             <div class="header">
-                <h2>🗃️Sample of Management System(SMS)</h2>
+                <h2>🗃️Student Management System(SMS)</h2>
                 <p>Developed by: शिवप्रसाद आचार्य (२०८२, श्रीकृष्णजन्माष्टमी) </p>
             </div>
 
@@ -525,4 +525,5 @@ DataApp.prototype.openStatsModal = function() {
 DataApp.prototype.closeStatsModal = function() {
     const modal = document.getElementById('stats-modal');
     if (modal) modal.style.display = 'none';
+
 };
