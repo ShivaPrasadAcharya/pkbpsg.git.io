@@ -143,17 +143,13 @@ window.markdown3Content = `
 ## Conclusion
 
 The citizen-consumer model fundamentally misunderstands the nature of democratic governance. While customer service principles can improve specific government transactions, treating citizens as consumers threatens core democratic values. Real-world examples demonstrate that the most important government functions—protecting rights, ensuring justice, planning for the future, and safeguarding minorities—often require decisions that would score poorly on customer satisfaction metrics but are essential for a healthy democracy and functioning society.
-# Civil Law-I (General Principles and Provisions of Contract)
-## Question Sets for Final Examination
-
-**Course Code:** LAW123  
-**Full Marks:** 75  
-**Time:** 3 hours  
-**Pass Mark:** 30
-
----
 
 
 `;
+window.markdown1Meta = { 
+  name: "Civil Law Set A",
+   emoji: "📄"
+
+   };
 
 
