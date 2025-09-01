@@ -1,6 +1,6 @@
 // data7markdown1.js
 window.markdown3Content = `
-# Regulatory Sandbox: नेपाल vs Singapore 
+# Regulatory Sandbox of Singapore: A Safe Space for Fintech Innovation 
 ## एउटै सपना, दुई फरक परिणाम
 
 ---
