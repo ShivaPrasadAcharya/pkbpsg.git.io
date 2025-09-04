@@ -1745,7 +1745,7 @@ Security Focus + Citizen Benefits + International Standards
 
 **Message for Nepal**: साना steps बाट शुरु गरेर, हामी पनि **digital governance leader** बन्न सक्छौं! 🇳🇵✨
 
-# China E-waste Recycling: Digital कचराबाट सुनको खानी
+# China E-waste Recycling: Digital कचराबाट सुनको कचौरा
 ## Traditional Dumping vs Circular Economy - दुई फरक approach
 
 ---
@@ -2606,6 +2606,7 @@ window.markdown3Meta = {
    emoji: "📄"
 
    };
+
 
 
 
