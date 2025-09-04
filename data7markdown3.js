@@ -900,7 +900,7 @@ Solution: Government subsidy, employer partnerships
 
 Nepal ले यो model adapt गरे **demographic dividend** को नयाँ definition बन्न सक्छ!
 
-# Dubai 10x Innovation: भविष्यमा 10 वर्ष अगाडि बस्ने रणनीति
+# Dubai 10x Innovation: 
 ## Traditional Improvement vs 10x Innovation - दुई फरक सोच
 
 ---
@@ -1750,6 +1750,7 @@ window.markdown3Meta = {
    emoji: "📄"
 
    };
+
 
 
 
