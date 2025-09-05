@@ -1,8 +1,8 @@
-// data8html2.js
+// data8html3.js
 window.html3Content = `
-<h1 id="civil-law-i-general-principles-and-provisions-of-contract-">Civil3 Law-I (General Principles and Provisions of Contract)</h1>
-<p> pokhara3 </p>
-<h2>shivam3</h2>
-<p> kathmandu3 </p>
+जे नगर भन्यो त्यहि गर्नुपर्छ? यसलाई नपढ भनेपछि किन पढ्न तम्सेको हो। समयको सत्यानाश। यसमा कामलाग्ने कुरा केही छैन त। 
 `;
 
+window.html3Meta = { 
+  name: "do not read this",
+   emoji: "📝" 
