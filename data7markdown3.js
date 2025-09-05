@@ -1229,7 +1229,7 @@ Rapid Execution + Citizen Focus + Continuous Iteration
 यो केवल technology नभएर **mindset revolution** हो - जसले impossible लाई possible बनाउँछ! 🚀
 Dubai ले देखाएको छ कि **10x better future** सम्भव छ! 🌟
 
-# X-Road Estonia: Digital Highway को क्रान्ति
+# X-Road Estonia: Digital Highway
 ## Silo System vs Connected System - दुई फरक Digital अनुभव
 
 ---
@@ -2606,6 +2606,7 @@ window.markdown3Meta = {
    emoji: "📄"
 
    };
+
 
 
 
