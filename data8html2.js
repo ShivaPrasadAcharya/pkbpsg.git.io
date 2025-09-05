@@ -11,4 +11,7 @@ So do not seek love and attention from other & do not expose your love and atten
 
 `;
 
+window.htm2Meta = { 
+  name: "गुरूवाणि",
+   emoji: "📝" 
 
