@@ -1,5 +1,5 @@
-// data7markdown1.js
-window.markdown0Content = `
+// data7markdown4.js
+window.markdown4Content = `
 # PUBLIC-PRIVATE PARTNERSHIPS (PPP)
 # PART 1: BASIC THEORIES, TYPES AND MODELS
 
@@ -2445,7 +2445,7 @@ DECISION FACTORS
 
 
 `;
-window.markdown0Meta = { 
+window.markdown4Meta = { 
   name: "PPP",
    emoji: "📄"
 
